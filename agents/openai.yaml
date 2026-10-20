@@ -1,0 +1,6 @@
+interface:
+  display_name: "3D Model Skill"
+  short_description: "从资料、几何到材质、性能与交付，建立或优化可验证的3D模型与交互场景"
+  default_prompt: "使用 $3d-model-skill 建立或优化当前3D模型，依据现有资料和目标平台完成建模、视觉检查与交付。"
+policy:
+  allow_implicit_invocation: true
